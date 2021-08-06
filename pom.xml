@@ -3,4 +3,9 @@
   <groupId>in.sekar</groupId>
   <artifactId>com.Appliaction</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <build>
+   <finalName>WhatEverYouLikey</finalName>
+ </build>
+  
 </project>
